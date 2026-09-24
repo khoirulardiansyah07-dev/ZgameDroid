@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Visualizer Studio",
+  "description": "Professional audio visualizer studio inspired by ZGameEditor Visualizer with multi-layer editing, real-time effects, audio mapping, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
